@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# dotenv / secrets
+.env
+.env.*
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Data / model files
+*.pkl
+*.db
+
+# OS files
+Thumbs.db
